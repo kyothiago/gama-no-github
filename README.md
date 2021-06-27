@@ -1,0 +1,1 @@
+Curso está sendo bem didático e explicado de forma simples até o momento, muito grato!
