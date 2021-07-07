@@ -4,5 +4,5 @@ let nome = "Thiago"
 var sobrenome = "Oberle"
 var idade = 31
 
-console.log("Meu nome é: " + nome + " " + sobrenome)
+console.log(`Meu nome é: ${nome} ${sobrenome}`)
 console.log("Minha idade é: " + idade)
